@@ -1,0 +1,14 @@
+# Arquivos compilados do Java
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Pastas de compilação
+out/
+target/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
